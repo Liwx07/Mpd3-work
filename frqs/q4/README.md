@@ -10,7 +10,7 @@ Part 2:
 - return the sum all the smaller number until it reach the end of the grid, uses getNextLoc method.
 
 ## Struggles with this question...
-- Wasn't sure hwo tot create a variable when writing the first method. 
+- Wasn't sure how to create a variable when writing the first method. 
 - Didn't know how to return the Location.
 
 ## Prior expereiences that helped...
