@@ -13,4 +13,5 @@
 - creating methods in main class. 
 
 ## What I learned by doing this question...
-- 
+- Using if statements inside of an if statement.
+- The use of int to indicate which team is active. 
